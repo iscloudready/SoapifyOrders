@@ -1,0 +1,5 @@
+D:\Users\Pradeep\Downloads\SoapifyOrders_Complete\SoapifyOrders.Client\obj\Debug\net6.0\SoapifyOrders.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Pradeep\Downloads\SoapifyOrders_Complete\SoapifyOrders.Client\obj\Debug\net6.0\SoapifyOrders.Client.AssemblyInfoInputs.cache
+D:\Users\Pradeep\Downloads\SoapifyOrders_Complete\SoapifyOrders.Client\obj\Debug\net6.0\SoapifyOrders.Client.AssemblyInfo.cs
+D:\Users\Pradeep\Downloads\SoapifyOrders_Complete\SoapifyOrders.Client\obj\Debug\net6.0\SoapifyOrders.Client.csproj.CoreCompileInputs.cache
+D:\Users\Pradeep\Downloads\SoapifyOrders_Complete\SoapifyOrders.Client\obj\Debug\net6.0\SoapifyOrders.Client.sourcelink.json
